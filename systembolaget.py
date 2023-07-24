@@ -7,6 +7,7 @@ import random
 
 class SystembolagetAPI:
 
+    
     def __init__(self):
         self.session = requests.session()
         self.start()
